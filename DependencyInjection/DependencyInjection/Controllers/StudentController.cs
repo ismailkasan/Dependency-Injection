@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using DependencyInjection.Domain;
 using DependencyInjection.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DependencyInjection.Controllers
@@ -18,6 +14,7 @@ namespace DependencyInjection.Controllers
         {
             this._studentService = cityService;
         }
+        [Route("StudentList")]
         [HttpGet]
         public IEnumerable<Student> GetStudentList()
         {

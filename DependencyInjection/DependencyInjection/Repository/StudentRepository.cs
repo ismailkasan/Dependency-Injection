@@ -1,8 +1,6 @@
 ﻿using DependencyInjection.Domain;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace DependencyInjection.Repository
 {
@@ -12,8 +10,8 @@ namespace DependencyInjection.Repository
         {
             return new List<Student>
             {
-                new Student { Id = Guid.NewGuid(), Name = "İsmail" },
-                new Student {  Id = Guid.NewGuid(), Name = "Ahmet" }
+                new Student { Id = Guid.NewGuid(), Name = "Student-1" },
+                new Student {  Id = Guid.NewGuid(), Name = "Student-2" }
             };
         }
     }   

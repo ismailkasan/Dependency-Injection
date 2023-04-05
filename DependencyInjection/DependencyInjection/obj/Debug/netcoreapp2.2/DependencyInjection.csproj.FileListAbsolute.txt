@@ -12,3 +12,21 @@ C:\Users\impar\source\research\DependencyInjection\DependencyInjection\obj\Debug
 C:\Users\impar\source\research\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.pdb
 C:\Users\impar\source\research\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.dll
 C:\Users\impar\source\research\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.pdb
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\appsettings.json
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.deps.json
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.runtimeconfig.json
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.runtimeconfig.dev.json
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.dll
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.pdb
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.csproj.AssemblyReference.cache
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.AssemblyInfoInputs.cache
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.AssemblyInfo.cs
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.RazorAssemblyInfo.cache
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.RazorAssemblyInfo.cs
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.RazorTargetAssemblyInfo.cache
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.dll
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.pdb
+C:\ismail kasan\ismail kaşan\Demolar\Dependency-Injection\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.genruntimeconfig.cache
